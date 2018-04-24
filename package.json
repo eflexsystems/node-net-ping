@@ -7,13 +7,13 @@
     "example": "example"
   },
   "dependencies": {
-    "raw-socket": "*"
+    "raw-socket": "eflexsystems/node-raw-socket#333c1bcab5505aeaa3cf9c3322d6d60a08c2eac4"
   },
-  "contributors": [ 
+  "contributors": [
     {
       "name": "Stephen Vickers",
       "email": "stephen.vickers.sv@gmail.com"
-    } 
+    }
   ],
   "repository": {
     "type": "git",
@@ -24,8 +24,8 @@
     "icmp",
     "monitor",
     "monitoring",
-  	 "net",
-  	 "network",
+    "net",
+    "network",
     "ping",
     "trace",
     "trace-route",
